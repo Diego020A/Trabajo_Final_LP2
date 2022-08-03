@@ -1,6 +1,6 @@
 # Trabajo_Final_LP2
 <p float="left">
-  <img src="https://w7.pngwing.com/pngs/937/923/png-transparent-logo-plaza-vea-supermarket-supermercados-peruanos-vs-versus-text-trademark-logo.png" width="300px">
+  <img src="https://plazavea.vteximg.com.br/arquivos/opg-fb-plazavea.jpg?v=637898668297670000" width="300px">
   <img src="https://user-images.githubusercontent.com/69254697/182523332-9f880f2f-c674-4386-a992-734052df2c27.png" alt="JuveYell" width="300px">
   <img src="https://user-images.githubusercontent.com/69254697/182523394-79c83ddd-35c2-4c26-a928-f64c92d9f0c2.png" alt="JuveYell" width="300px">
  </p>
