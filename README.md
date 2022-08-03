@@ -2,7 +2,7 @@
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
+<img src="https://pbs.twimg.com/profile_images/777607436186357760/vtN4KHTg_400x400.jpg" width="300px">
 </p>
 </div>
 
