@@ -1,4 +1,12 @@
 # Trabajo_Final_LP2
+
+![image](https://user-images.githubusercontent.com/69254697/182523285-c1cff0ad-c8f0-4ed1-ac6f-798f76cc1e03.png)
+
+![image](https://user-images.githubusercontent.com/69254697/182523332-9f880f2f-c674-4386-a992-734052df2c27.png)
+
+![image](https://user-images.githubusercontent.com/69254697/182523394-79c83ddd-35c2-4c26-a928-f64c92d9f0c2.png)
+
+
 Integrantes:
 
 - Manuel Mercedes
@@ -7,8 +15,7 @@ Integrantes:
 
 - Giancarlo Kuway
 
-En el archivo Metro.ipynb se va a descargar, estructurar los datos de la canasta básica familiar de los productos que venden en Metro. Además de ingresar el correo y 
-producto para buscarlo en todos los productos de Metro.csv para posteriormente enviarlo al correo ingresado.
+En el archivo metro.ipynb se va a descargar, estructurar los datos de la canasta básica familiar de los productos que venden en Metro.
 
 En el archivo TOTTUS.ipynb se va a descargar, estructurar los datos de la canasta básica familiar de los productos que venden en Tottus.
 
