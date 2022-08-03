@@ -7,7 +7,8 @@ Integrantes:
 
 - Giancarlo Kuway
 
-En el archivo metro.ipynb se va a descargar, estructurar los datos de la canasta básica familiar de los productos que venden en Metro.
+En el archivo metro.ipynb se va a descargar, estructurar los datos de la canasta básica familiar de los productos que venden en Metro. Además de ingresar el correo y 
+producto para buscarlo en todos los productos de Metro.csv para posteriormente enviarlo al correo ingresado.
 
 En el archivo TOTTUS.ipynb se va a descargar, estructurar los datos de la canasta básica familiar de los productos que venden en Tottus.
 
