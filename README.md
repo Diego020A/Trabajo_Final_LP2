@@ -1,20 +1,8 @@
 # Trabajo_Final_LP2
 <p float="left">
-  <div>
-  <p style = 'text-align:center;'>
   <img src="https://pbs.twimg.com/profile_images/777607436186357760/vtN4KHTg_400x400.jpg" width="300px">
-  </p>
-  </div>
-  <div>
-  <p style = 'text-align:center;'>
   <img src="https://user-images.githubusercontent.com/69254697/182523332-9f880f2f-c674-4386-a992-734052df2c27.png" alt="JuveYell" width="300px">
-  </p>
-  </div>
-  <div>
-  <p style = 'text-align:center;'>
   <img src="https://user-images.githubusercontent.com/69254697/182523394-79c83ddd-35c2-4c26-a928-f64c92d9f0c2.png" alt="JuveYell" width="300px">
-  </p>
-  </div>
  </p>
 
 
