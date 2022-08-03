@@ -1,5 +1,11 @@
 # Trabajo_Final_LP2
 
+<div>
+<p style = 'text-align:center;'>
+<img src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
+</p>
+</div>
+
 ![image](https://user-images.githubusercontent.com/69254697/182523285-c1cff0ad-c8f0-4ed1-ac6f-798f76cc1e03.png)
 
 ![image](https://user-images.githubusercontent.com/69254697/182523332-9f880f2f-c674-4386-a992-734052df2c27.png)
