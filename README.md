@@ -9,11 +9,13 @@
 
 Integrantes:
 
-- Manuel Mercedes
-
 - Diego Poma    
 
 - Giancarlo Kuway
+
+- Manuel Mercedez
+
+En el archivo Trabajo Final LP2 (mejorado) se ejecuta el resultado final del ingreso de correo junto con el producto a comparar, además de la descarga, estructuración y envío automatizado de la comparación en formato de tablas. 
 
 En el archivo metro.ipynb se va a descargar, estructurar los datos de la canasta básica familiar de los productos que venden en Metro.
 
